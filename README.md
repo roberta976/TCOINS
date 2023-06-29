@@ -1,6 +1,5 @@
 # TCOINS
-Plataforma desenvolvida para um projeto da faculdade. Sistema de fidelização de clientes, desenvolvido em React com back-end em Java e utilizando SQL para o registro dos dados. Telas desenvolvidas no FIGMA
-
+Platform developed for a college project. Customer loyalty system, developed in React with a back-end in Java and using SQL for data registration. Screens developed in FIGMA.
 #### Front-end
 
   
