@@ -2,7 +2,7 @@
 Platform developed for a college project. Customer loyalty system, developed in React with a back-end in Java and using SQL for data registration. Screens developed in FIGMA.
 #### Front-end
 
-  
+(IMAGENS DO PROTÓTIPO DESENVOLVIDO NO FIGMA)
 ![image](https://github.com/roberta976/TCOINS/assets/66263681/0d160089-538c-4d9c-bc85-28c3f88127c5)
 ![image](https://github.com/roberta976/TCOINS/assets/66263681/103fc43b-4438-4e0c-b37c-2cb804761151)
 
